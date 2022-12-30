@@ -2,7 +2,7 @@
 
 # Into
 This is a timetable management app. it is a home project developed in core PHP just for my learning purpose.
-I developed this project in 2018. Now in 2022, I'm pushing this project in GitHub to show my previous learning items. Also, the project was built in 2018, and it is not comfortable with the latest PHP and MySQL versions to solve this issue I have dockerized this app using docker so that anyone can run this project with less effort than setting up the ENV items. All other details are as follows.  
+I developed this project in 2018. Now in 2022, I'm pushing this project in GitHub to show my previous learning items. Also, the project was built in 2018, and it is not comfortable with the latest PHP and MySQL versions. to solve this issue I have dockerized this app using docker so that anyone can run this project with less effort than setting up the ENV items. All other details are as follows.  
 
 # Features
 - Admin panel
